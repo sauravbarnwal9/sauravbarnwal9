@@ -9,7 +9,7 @@
 
  ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1NhqgI0cOvqOpuJxwX381VvIP7ho5kWxu/view?usp=sharing" target="_blank">**RESUME**</a>
  
- ➥ Here is my PORTFOLIO : <a href="https://portfoliosaurav.vercel.app/">**PORTFOLIO**</a>
+ ➥ Here is my PORTFOLIO : <a href="https://portfoliosaurav.vercel.app/" target="_blank">**PORTFOLIO**</a>
 
 
 - 🤔   I’m currently open for a new job opportunity 
