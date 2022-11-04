@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravbarnwal9&label=Profile%20views&color=0e75b6&style=flat" alt="sauravbarnwal" target="_blank" /> </p>
 
- ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1NhqgI0cOvqOpuJxwX381VvIP7ho5kWxu/view?usp=sharing" target="_blank">**RESUME**</a>
+ ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1K2i8s_8LKf41nACJksm798xxNlGZkTh1/view" target="_blank">**RESUME**</a>
  
  ➥ Here is my PORTFOLIO : <a href="https://portfoliosaurav.vercel.app/" target="_blank">**PORTFOLIO**</a>
 
