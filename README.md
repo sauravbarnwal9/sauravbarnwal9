@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saurav-barnwal-60806923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravbarnwal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/100rav_barnwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubhbadve" height="30" width="40" /></a>
+<a href="https://www.instagram.com/100rav_barnwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravbarnwal9" height="30" width="40" /></a>
 </p>
 <br/><br/>
 <h2><i>Tech Stack</i></h2>
